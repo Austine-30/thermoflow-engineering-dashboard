@@ -1,4 +1,5 @@
 # ThermoFlow Engineering Dashboard
+[![Open ThermoFlow App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://thermoflow-engineering-dashboard.streamlit.app/)
 
 ## Project Description
 
@@ -43,7 +44,7 @@ ChatGPT was used as an AI-assisted development tool for application planning, Py
 
 ## Live Application
 
-**Live App URL:** To be added after deployment.
+**Live App URL:*https://thermoflow-engineering-dashboard.streamlit.app/* To be added after deployment.
 
 ## Author
 
