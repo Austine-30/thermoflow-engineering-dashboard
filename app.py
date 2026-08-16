@@ -544,7 +544,7 @@ fig.update_layout(
 
 st.plotly_chart(
     fig,
-    use_container_width=True,
+    width="stretch",
 )
 
 
@@ -556,7 +556,7 @@ st.markdown("### Detailed Results Table")
 
 st.dataframe(
     results_df.round(4),
-    use_container_width=True,
+    width="stretch",
 )
 
 
@@ -588,3 +588,4 @@ st.write(
 st.caption(
     "ThermoFlow | Petroleum Engineering Thermodynamics Application"
 )
+
