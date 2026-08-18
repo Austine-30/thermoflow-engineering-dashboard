@@ -2,7 +2,6 @@
 
 [Open the Live ThermoFlow App](https://thermoflow-engineering-dashboard.streamlit.app/)
 
-
 ## Project Description
 
 ThermoFlow is an interactive Streamlit engineering application developed for petroleum engineering thermodynamics analysis. The application uses the Peng-Robinson Equation of State (EOS) to estimate real-gas properties including compressibility factor, fugacity coefficient, fugacity, and gas density. Users can select different gases and interactively change temperature, pressure, pressure range, and analysis points through the sidebar. The application also provides interactive Plotly visualizations, a Pandas results table, engineering interpretation, and input/error handling.
@@ -46,7 +45,9 @@ ChatGPT was used as an AI-assisted development tool for application planning, Py
 
 ## Live Application
 
-**Live App URL:*https://thermoflow-engineering-dashboard.streamlit.app/* To be added after deployment.
+**Live App URL:** https://thermoflow-engineering-dashboard.streamlit.app/
+
+[Open the Live ThermoFlow App](https://thermoflow-engineering-dashboard.streamlit.app/)
 
 ## Author
 
