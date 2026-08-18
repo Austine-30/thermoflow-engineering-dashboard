@@ -1,5 +1,7 @@
 # ThermoFlow Engineering Dashboard
-[![Open ThermoFlow App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://thermoflow-engineering-dashboard.streamlit.app/)
+
+[Open the Live ThermoFlow App](https://thermoflow-engineering-dashboard.streamlit.app/)
+
 
 ## Project Description
 
